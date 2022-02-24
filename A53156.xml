@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Purgatory, or, The Jesuits legacy to all their loving friends in all cities and all countries</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53156</idno>
+            <idno type="STC">Wing N993</idno>
+            <idno type="STC">ESTC R424</idno>
+            <idno type="EEBO-CITATION">12495818</idno>
+            <idno type="OCLC">ocm 12495818</idno>
+            <idno type="VID">62500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62500)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 769:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Purgatory, or, The Jesuits legacy to all their loving friends in all cities and all countries</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:62500:1" rendition="simple:additions"/>
+            <head>News from Purgatory. OR, The Jeſuits Legacy To all their Loving Friends <hi>In all Cities and all Countries.</hi>
+            </head>
+            <p>WE had long ſince (moſt Noble Friends) left you this our laſt Legacy, as a Teſtimony of our thanks due to your great Truſt and ſingular Contrivance in carrying on the Deſign, but that we ſtayed for Mr. <hi>L—</hi> our Fellow-Labourer, and deſerved indeed at the ſame time to have been a fel<g ref="char:EOLhyphen"/>low-ſufferer, though the ſubtilty of his Evaſions obtained a ſmall Reſpit from the Execution of Juſtice, for which he hath now ſuffered the ſame Fate. For as he is a ſpirit of profound knowledge in the deepeſt Miſteries of the Law, ſo is he of greateſt uſe for his ſingular Truſt in the management of the ſame; for tho theſe Regions be very well ſtockt with Gown-men, eſpecially Prieſts and Lawyers, yet could we not in all this numerous croud, find out one Devil, tho ſome thouſand years experienced in all the Villanies of Man, whom we might entruſt in this Concern like him: who as he was beſt ac<g ref="char:EOLhyphen"/>quainted with our Eſtates and Writings, Privy to all our Councils and De<g ref="char:EOLhyphen"/>bates, can in the moſt profound and Legal Method convey them to your Lordſhip.</p>
+            <p>We need not tell you with what obſtinacy of Reſolution; and unpa<g ref="char:EOLhyphen"/>rallell'd Impudence, we periſhed to the laſt gaſp, even to the defiance of Truth, and abjuration of Heaven, for the Holy Catholick Cauſe, and muſt ex<g ref="char:EOLhyphen"/>hort you by our Example to continue Obſtinate to the End, that Hereticks get no Advantage againſt us, that your lives may be thought Innocent, and the Credulous multitude pity your Sufferings, you may daily gain Proſelytes into the Boſom of the Mother Church.</p>
+            <p>But we hope ſuch Cognizances are not neceſſary for you (My Thrice No<g ref="char:EOLhyphen"/>ble Friends, the great <hi>Atlaſſes</hi> of our Papal Heaven) whoſe larger Souls are a greater Teſtimony of your Integrity then our Example can expreſs, for which you deſerve the Eternal Praiſe and Prayers of the Church, and which we to the moſt excellent worth of your moſt noble perſons, with an ampler right and greater Merit than our ſelves have now applyed, who have hitherto la<g ref="char:EOLhyphen"/>boured in ſo glorious a work, not for the ſake of profane Empire only, but for the Principality, Univerſality and Infallibility of the moſt Holy <hi>Roman Ca<g ref="char:EOLhyphen"/>tholick Church.</hi> For it was you (My Noble Friends) who at the Command of his Holineſs the preſent <hi>Alexander</hi> the 14, and ſome years ſince brought forth of your Armory inſtead of Allegiance and Loyalty, Darts of a clear different
+<pb n="2" facs="tcp:62500:2"/>frame: to wit, the <hi>Shield of Aſſiſtance</hi> and the <hi>Sword of Glory</hi> for propagating the Holy Catholic Cauſe, and ſubverting of Hereticks, which they miſcall Re<g ref="char:EOLhyphen"/>bellion and Treaſon, for which we have already ſuffer'd Martyrdom, and you your ſelves lye under the State of Condemnation.</p>
+            <p>Nor is it only for your generous Conſpiracy and ſecret Conduct we owe you this acknowledgment: but that likewiſe, ſince you made a Diſtribution of theſe your Arms, gnawn a little with ruſt, but new cleanſed and poliſh't to the confederate Accomplices with ſeveral Grants, Orders, Warrants, Com<g ref="char:EOLhyphen"/>miſſions, Patents, Decrees, to proceed in the great Deſign, whilſt we, who had the Care of Souls, were abundantly ſtockt with Spiritual Engines, as Diſpen<g ref="char:EOLhyphen"/>ſations, Reſervations, Equivocations, Abſolutions, Pardons, Indulgences, Con<g ref="char:EOLhyphen"/>feſſions and ſecret Inſinuations to excite Proſelytes, and carry on the ſame thorow the three Nations, where, tho we were diſcovered and prevented by the Apoſtacy of a Diſſenting Brother, you may yet proceed, ſince for your Succeſs there are daily Prayers ſaid in the Conclave, and there are enough who yet ſurvive to take Advantage of Opportunity.</p>
+            <p>Thus having in general intimated our Acknowledgments we think it our Duty to your preſent conditions in particular, with a ſmall portion of Goods and Chattels as ſcaped Confiſcation, this place not admitting of much Money, yet ſuch as we have in diſtinct parcels according to the preſent fol<g ref="char:EOLhyphen"/>lowing Inventory.</p>
+            <div type="part">
+               <head>The laſt Legacy of <hi>Thomas Whitebread,</hi> to all Catholicks.</head>
+               <p>IN the Name of the moſt Holy of Holieſt upon Earth, Vicar and Vicege<g ref="char:EOLhyphen"/>rent in the Pontifical Chair, <hi>&amp;c.</hi> I <hi>Thomas Whitebread</hi> (very weak and infirm in Body ſince the laſt Execution) but of ſound and perfect Memory of all the Good or Evil I have done in the Fleſh; whether by Deceit, Bribe, Treachery, Hypocriſy, Treaſon, Conſpiracy, Policy, Cheating, Lying, Swear<g ref="char:EOLhyphen"/>ing and Forſwearing, all Meritorious Acts to carry on the Cauſe, and for which I am Juſtly Sentenced unto this World of Purgatory, do bequeath unto you (my Honourable Friends) all my Right, Title, Claim and Intereſt of and in the Provincial Seat of the Jeſuits in <hi>England,</hi> ſince from you it did de<g ref="char:EOLhyphen"/>ſcend, and to you it appertaineth to diſpoſe of it, to none but ſo great a Vil<g ref="char:EOLhyphen"/>lain as my ſelf, who had rather hazard Damnation at the Gallows with a Lye in my mouth, and a Rope about by neck, then by a feeble Confeſſion ſuffer your Honorable Heads to be brought to the Block, and to my Succeſſor this Advice, by my Example, if he fall under the ſame <hi>Praemunire</hi> to juſtify his In<g ref="char:EOLhyphen"/>nocence to the laſt.</p>
+            </div>
+            <div type="part">
+               <head>The laſt Legacy of <hi>William Harcourt.</hi>
+               </head>
+               <p>I <hi>William Harcourt,</hi> &amp;c. do bequeath unto you (my good Friends) all and every the vaſt Summ and Summs of Money committed unto my Truſt, under pretence of ſupplying Indigent Papiſts, but indeed for carrying on the Cauſe, to be return'd into the Exchequer at <hi>Tarthall.</hi> Likewiſe to my good Lord — I do reſign and make over all my Right and Title of Re<g ref="char:EOLhyphen"/>ctorſhip of the Jeſuites in <hi>London,</hi> and <hi>Somerſet</hi> Cloyſters for a new Con<g ref="char:EOLhyphen"/>vent, ſince the Inviſible Monaſtery was unhappily diſcovered at <hi>Tart-Hall,</hi> and his Ladies Cobler with the Leather Apron for a Tippet to ſucceed me in the Rectory. Laſtly, I do abſolve all <hi>Roman Catholicks</hi> from their Prayers which I beg'd at the Gallows (becauſe I find here they are like to do but
+<pb n="3" facs="tcp:62500:2"/>little ſervice) to be imploy'd in your Lordſhips behalf to inable you by a Le<g ref="char:EOLhyphen"/>gion of Oaths, Vows and Proteſtations, from which I Abſolve you to juſtify your Integrity to the the end.</p>
+            </div>
+            <div type="part">
+               <head>Mr. <hi>Anthony Turner</hi>'s laſt Legacy.</head>
+               <p>ANd to you my Honourable Patrons, as the chief undertakers and prin<g ref="char:EOLhyphen"/>ciple promoters of this Fatal Plot; I do bequeath all the Art of Secreſy and Myſtery of <hi>Jeſuitiſm,</hi> with all its practicable Tenents of King-killing and Heretick-deſtroying; with the allowance of Equivocation, Lying, Swearing and For-ſwearing, as the cauſe ſhall require, to be delivered out with your Commiſſions. And to my Lord — the preſent Councel of <hi>Trent</hi> for a Model of his new Government, and <hi>Tixal</hi> for the Council-Chamber. I leave you my Prayers which I had on my Finger-ends at the place of Execution, my Beads, Roſaries and Avies, as a pledge of my Martyrdom, to be Regi<g ref="char:EOLhyphen"/>ſter'd amongſt the Relicks in <hi>Trinity Colledge</hi> in <hi>Cambridge,</hi> and my Manual of Ignorance to be inliſted in the Library at <hi>Oxford,</hi> when they ſhall be eſtabliſhed <hi>Roman Catholick</hi> Univerſities; which though you cannot ſo eaſily effect at preſent by reaſon of your reſtraint, yet at leaſt you muſt be active to endeavour by ſuch Inſtruments as are proper to effect the ſame, with this Motto, <hi>Si non ſimul, &amp; ſemel, at paulatim &amp; ſenſim ſit mutatio fact a.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Mr. <hi>Gawen</hi>'s Legacy.</head>
+               <p>I muſt confeſs that I rather chooſe to die, rather then confeſs Truth at the Gallows; (my moſt Noble Friends) I have not much to bequeath you of any Worldly Talents, only what Talent I claim by vertue of my Function as a <hi>Jeſuit,</hi> that is, a certain Authority more then Travellers challenge for Lying, which I improv'd to the laſt minute, and leave unto you both Intereſt and Principle to manage to the beſt advantage, as neceſſary to your preſent Eſtate as well as mine; ſince according to our Principles it is both lawful and neceſſary to Lye and Outface the Truth, even by Oath and Imprecations; nay outbrave Death and Judgment, and like brave <hi>Roman</hi> Heroes ſacrifice Soul and Body for the Holy Catholick Intereſt, rather then by a Cowardly Confeſſion to betray the Cauſe you undertook, and give and allow you all liberty to exerciſe the ſame. As alſo a full power to Kill, Rob and Spoil He<g ref="char:EOLhyphen"/>reticks, as fully as it is granted you by the <hi>Lateran</hi> Council. I do likewiſe bequeath unto you all my ſhare, part and portion of all the Goods, Chatels, Moveables and Eſtates of any Heretick Prince, Prelate or People, which are already confiſcated by the ſame Concil, and which might or ought by Writ of Partition fall unto my Lot, when it comes into your hands: In recompence whereof, I do enjoyn you to erect ten thouſand Chapels in ten thouſand ſeve<g ref="char:EOLhyphen"/>ral places, where ten thouſand Prieſts may ſay ten thouſand Maſſes every day, for ten thouſand years to make Atonement for the laſt abominable Lye I told, for I find leſs time will hardly redeem me from this Purgatory.</p>
+            </div>
+            <div type="part">
+               <head>Father <hi>John Fenwick</hi>'s laſt Legacy.</head>
+               <p>TO ſtrengthen your Reſolutions (my noble Friends) in the holy Cauſe you have undertaken, I <hi>John Fenwick</hi> leave you my Impudence to outface Juſtice and the Truth, and my Innocency to palliate your Guilt when you are
+<pb n="4" facs="tcp:62500:3" rendition="simple:additions"/>convicted: And that you may not ſtammer at a Lye at the laſt gaſp, I leave you my Tongue to be your Advocate, and two drams of my Brains for a Council's Fee; my Privities, which were the firſt Martyrs before my ſelf, I do bequeath to the <hi>Mother-Church,</hi> which the Hereticks call the <hi>Scarlet Whore,</hi> and <hi>Whore of Babylon,</hi> to get many ſuch <hi>Phaenixes</hi> out of the Ashes: My nether Jaw I leave to my Lord — for a Brandy-Cup; my Skull for a Snuff-Box; and my Bow<g ref="char:EOLhyphen"/>els to your L—, to be ſpun into a Clew of Innocency, to lead you out of your preſent Labyrinth. Laſtly, I leave you my Advice ſtill to aſſert your Innocence; lay the Plot, and — and others, Fee-deep for Prorogations and Diſſolutions; bribe <hi>O—</hi> and <hi>B—</hi>; if you cannot do that, at leaſt leſſen their Evidence, by reviling their Perſons, and deny all with Oaths and Impre<g ref="char:EOLhyphen"/>cations, even upon the Scaffold.</p>
+               <p>We do alſo as <hi>Proto-Martyrs</hi> in the ſame Cauſe, for and in the name, and by and with the conſent of them, and every of them, preſent unto your Lord<g ref="char:EOLhyphen"/>ſhips <hi>Staley</hi>'s Jewels, after his Debts are paid, that durſt rail at Monarchy, and proclaim his noble Reſentments in publick Aſſemblies, and had the honour to be the firſt Martyr, whilſt you ſneak into blind Corners, whiſper your Trea<g ref="char:EOLhyphen"/>ſons like Confeſſions into each others Ears, and ſuffer others baſely to go be<g ref="char:EOLhyphen"/>fore you, whilſt the quality of your Worth and Dignity of your perſons, ought to prefer you before the reſt. We do alſo bequeath unto you three Locks of his Hair to make a Golden Tower for the Queen of <hi>Babylon,</hi> that his early and forward zeal may be writ in Rubricks in her forehead, and his Effigies as it is now ſold at <hi>Weſtminſter-hall</hi> like <hi>Mahomet</hi> hanging Geometri<g ref="char:EOLhyphen"/>cally in the Air, with a numerous retinue of Staves and Halberts by way of Trophyes inſerted in the very Porch and Frontiſpiece of the Mother-Church. We had a deſign to preſent her alſo with three Locks of Mr. <hi>Coleman</hi>'s Wig, if all our ſmall Patrimony could purchaſe it, but that his Relict hath con<g ref="char:EOLhyphen"/>verted them to a better uſe, having ſold them for a Guiney a Hair to make Rings for the ſurviving Brethren to walk inviſibly. However as more ma<g ref="char:EOLhyphen"/>terial and better proofs of his good ſervice, we recommend unto you his Ori<g ref="char:EOLhyphen"/>ginal Letters to be inrol'd amongſt the Epiſtles of the Apoſtles writ by their own hands, to be preſerved as Relicks in the <hi>Vatican:</hi> As likewiſe his Gloves and Sword, which you muſt purchaſe from Mr. — in <hi>Hay-Market</hi> for 100 Guineys, having refuſed fifty Pounds half a year ſince; together with <hi>Grove</hi>'s Dagger, and <hi>Pickering</hi>'s Piſtol, to be kept as Eternal Monuments amongſt the Trophies in the Capitol with this Inſcription,
+<q xml:lang="lat">—Mors mihi, non Regi.</q>
+               </p>
+               <p>And for fear you ſhould want Stock to carry on the Deſign in this interlude of Action; my Noble Friends, we do preſent unto you the three thouſand Pound <hi>per annum,</hi> raiſed upon the Catholick Eſtates for carrying on the De<g ref="char:EOLhyphen"/>ſign, with threeſcore of Mr. <hi>L.—</hi> the double Martyr, his Penetential Scourges in <hi>Newgate,</hi> to any that ſhall by any encouragement of Life, Fortune or Eſtate, make or incline to make hereafter any Confeſſion. Father <hi>Ire<g ref="char:EOLhyphen"/>lands</hi> Talents meaſured out by the Shackles of the Sanctuary at <hi>Rome,</hi> lapt up in Sir <hi>Edmundbury Godfrey</hi>'s Napkin, till time and liberty give you opportu<g ref="char:EOLhyphen"/>nity to improve and convert it to its proper uſe; together with <hi>Green-Berry-Hill</hi> to be ſet a part and conſecrated for the Erecting a Monaſtry when the Go<g ref="char:EOLhyphen"/>vernment ſhall come into your hands, where dayly Prayers may be ſaid for the Saints departed.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
